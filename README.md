@@ -25,7 +25,7 @@ $ go build -o $GOPATH/bin/provisioner-command  plugin/provisioner-command/main.g
 }
 ```
 
-You can also multiple commands by `commands` with an array of commands.
+You can also specify multiple commands by `commands` with an array of commands.
 
 ```json
 {
