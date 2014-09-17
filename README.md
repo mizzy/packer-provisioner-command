@@ -1,6 +1,6 @@
 # Packer Command Provisioner
 
-[Shell Provisioner](http://www.packer.io/docs/provisioners/shell.html) makes a script file locally and send the file via SCP before executing commands.But Command Provisioner runs command directly via SSH.So you don't need scp command in the target host.
+[Shell Provisioner](http://www.packer.io/docs/provisioners/shell.html) makes a script file locally and send the file via SCP before executing commands. But this Command Provisioner runs command directly via SSH.So you don't need scp command in the target host.
 
 ----
 
